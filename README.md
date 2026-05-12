@@ -13,10 +13,11 @@ Funktsioonid:
 Käivitamine:
 1. paigalda python 3
 2. Laadi projekt alla(https://github.com/tonissonkert-crypto/Projekt_py/tree/main)
-3. Lae alla kõik vajalikud pildid
+3. Lae alla kõik vajalikud pildid:
    monster.png
    monster.pekstud.png
-4. käivita mäng
+4. pildid peavad olema koodiga samas kaustas
+5. käivita mäng
 
 Kuidas mängida:
 1. Loe tekste enne nuppude vajutamist
